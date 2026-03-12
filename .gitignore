@@ -13,8 +13,6 @@ __pycache__/
 .Python
 
 # Дистрибутивы и сборки
-dist/
-build/
 *.egg-info/
 *.egg
 *.whl
@@ -27,10 +25,6 @@ build/
 *.swo
 *~
 
-# PyInstaller
-*.spec
-dist/
-build/
 
 # Логи и базы данных
 *.log
